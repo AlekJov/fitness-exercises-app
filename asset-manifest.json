@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https//AlekJov.github.io/fitness-exercises-app%20/static/css/main.dcbcf685.css",
+    "main.js": "/https//AlekJov.github.io/fitness-exercises-app%20/static/js/main.cbe20b0e.js",
+    "static/media/banner.png": "/https//AlekJov.github.io/fitness-exercises-app%20/static/media/banner.5209b5e92a864ca0c615.png",
+    "static/media/gym.png": "/https//AlekJov.github.io/fitness-exercises-app%20/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/https//AlekJov.github.io/fitness-exercises-app%20/index.html",
+    "main.dcbcf685.css.map": "/https//AlekJov.github.io/fitness-exercises-app%20/static/css/main.dcbcf685.css.map",
+    "main.cbe20b0e.js.map": "/https//AlekJov.github.io/fitness-exercises-app%20/static/js/main.cbe20b0e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcbcf685.css",
+    "static/js/main.cbe20b0e.js"
+  ]
+}
